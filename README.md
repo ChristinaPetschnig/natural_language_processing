@@ -21,6 +21,11 @@ Consider domain-specific features related to eating disorder content, such as sp
 
 Experiment with different NLP models suitable for text classification tasks (Recurrent neural networks (RNNs), Convolutional neural networks (CNNs), or transformer-based architectures like BERT)
 
+
+## Bert model
+
+The bert model can be accessed via this link: https://drive.google.com/drive/folders/1q7Q7oZbrY3p5Mu4pBGssp4ogMvTEciwD?usp=sharing as it is too big for loading it on github
+
 ## Extras:
 
 ### Ethical Considerations:
