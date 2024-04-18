@@ -1,8 +1,10 @@
 # Natural Language Processing
 
-Research Question: How effective is natural language processing (NLP) in classifying social media content promoting eating disorders?
-
 # Social Media Content Analysis Project
+
+## Research Question
+
+How effective is natural language processing (NLP) in classifying social media content promoting eating disorders?
 
 ## Overview
 This repository is dedicated to the analysis and identification of social media content related to eating disorders. We've developed models using machine learning techniques to classify posts based on whether they glorify eating disorders. The modules in this project carry out data pre-processing, feature extraction, training, evaluation, and persistence of machine learning models.
